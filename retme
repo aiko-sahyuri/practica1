@@ -1,0 +1,14 @@
+inicio
+se muestra en la pantalla una notificacion con cada uno de los nombres
+notificacion0(Edgar)
+notificacion1(Angel)
+notificacion2(Miguel)
+notificacion3(Angelica)
+notificacion4(Max)
+notificacion5(Ana)
+notificacion6(Julio)
+notificacion7(Luna)
+notificacion8(Juaquin)
+notificacion9(Alan)
+imprimir una frace que diga "Esta página muestra 10 nombres de alumnos"
+fin
